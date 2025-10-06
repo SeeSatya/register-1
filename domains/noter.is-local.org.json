@@ -1,0 +1,16 @@
+{
+    "description": "a project with mail forwardig",
+    "domain": "is-local.org",
+    "subdomain": "noter",
+    "owner": {
+        "repo": "https://github.com/SeeSatya/register-1",
+        "email": "contact@satyajit.is-a.dev"
+    },
+    "record": {
+        "NS": [
+            "destiny.ns.cloudflare.com",
+            "robert.ns.cloudflare.com"
+        ]
+    },
+    "proxied": false
+}
